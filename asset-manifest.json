@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/edallal/static/css/main.04f27754.chunk.css",
+    "main.js": "/edallal/static/js/main.3019569a.chunk.js",
+    "main.js.map": "/edallal/static/js/main.3019569a.chunk.js.map",
+    "runtime-main.js": "/edallal/static/js/runtime-main.25f76c7b.js",
+    "runtime-main.js.map": "/edallal/static/js/runtime-main.25f76c7b.js.map",
+    "static/css/2.84649c61.chunk.css": "/edallal/static/css/2.84649c61.chunk.css",
+    "static/js/2.c5104c31.chunk.js": "/edallal/static/js/2.c5104c31.chunk.js",
+    "static/js/2.c5104c31.chunk.js.map": "/edallal/static/js/2.c5104c31.chunk.js.map",
+    "static/js/3.a17d28f2.chunk.js": "/edallal/static/js/3.a17d28f2.chunk.js",
+    "static/js/3.a17d28f2.chunk.js.map": "/edallal/static/js/3.a17d28f2.chunk.js.map",
+    "index.html": "/edallal/index.html",
+    "static/css/2.84649c61.chunk.css.map": "/edallal/static/css/2.84649c61.chunk.css.map",
+    "static/css/main.04f27754.chunk.css.map": "/edallal/static/css/main.04f27754.chunk.css.map",
+    "static/js/2.c5104c31.chunk.js.LICENSE.txt": "/edallal/static/js/2.c5104c31.chunk.js.LICENSE.txt",
+    "static/media/Farm-Pick.68b6d635.png": "/edallal/static/media/Farm-Pick.68b6d635.png",
+    "static/media/allevatorisammarinesi.d8e6705d.png": "/edallal/static/media/allevatorisammarinesi.d8e6705d.png",
+    "static/media/home.style.css": "/edallal/static/media/slide.6a002994.png",
+    "static/media/check.aee40bd2.svg": "/edallal/static/media/check.aee40bd2.svg",
+    "static/media/contact-us.1658b400.svg": "/edallal/static/media/contact-us.1658b400.svg",
+    "static/media/contact-us.a6691bf8.svg": "/edallal/static/media/contact-us.a6691bf8.svg",
+    "static/media/delivery.89eec684.svg": "/edallal/static/media/delivery.89eec684.svg",
+    "static/media/down.d6f71ec4.svg": "/edallal/static/media/down.d6f71ec4.svg",
+    "static/media/eDallal-logo.0c4f99ee.svg": "/edallal/static/media/eDallal-logo.0c4f99ee.svg",
+    "static/media/farm-food.d384c270.png": "/edallal/static/media/farm-food.d384c270.png",
+    "static/media/go.43d33f38.svg": "/edallal/static/media/go.43d33f38.svg",
+    "static/media/help.4017b6d0.svg": "/edallal/static/media/help.4017b6d0.svg",
+    "static/media/lap.d8e9a7d4.png": "/edallal/static/media/lap.d8e9a7d4.png",
+    "static/media/logo-small.82fbb872.png": "/edallal/static/media/logo-small.82fbb872.png",
+    "static/media/service-img.561239cb.svg": "/edallal/static/media/service-img.561239cb.svg",
+    "static/media/slick-theme.css": "/edallal/static/media/slick.c94f7671.ttf",
+    "static/media/thankful.1d544943.svg": "/edallal/static/media/thankful.1d544943.svg",
+    "static/media/web.2f68c076.svg": "/edallal/static/media/web.2f68c076.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f76c7b.js",
+    "static/css/2.84649c61.chunk.css",
+    "static/js/2.c5104c31.chunk.js",
+    "static/css/main.04f27754.chunk.css",
+    "static/js/main.3019569a.chunk.js"
+  ]
+}
