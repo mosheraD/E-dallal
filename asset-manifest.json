@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/E-dallal/static/css/main.98b344da.chunk.css",
-    "main.js": "/E-dallal/static/js/main.3019569a.chunk.js",
-    "main.js.map": "/E-dallal/static/js/main.3019569a.chunk.js.map",
-    "runtime-main.js": "/E-dallal/static/js/runtime-main.e90cceaa.js",
-    "runtime-main.js.map": "/E-dallal/static/js/runtime-main.e90cceaa.js.map",
+    "main.js": "/E-dallal/static/js/main.7df91438.chunk.js",
+    "main.js.map": "/E-dallal/static/js/main.7df91438.chunk.js.map",
+    "runtime-main.js": "/E-dallal/static/js/runtime-main.74f48c1a.js",
+    "runtime-main.js.map": "/E-dallal/static/js/runtime-main.74f48c1a.js.map",
     "static/css/2.2948a832.chunk.css": "/E-dallal/static/css/2.2948a832.chunk.css",
-    "static/js/2.c5104c31.chunk.js": "/E-dallal/static/js/2.c5104c31.chunk.js",
-    "static/js/2.c5104c31.chunk.js.map": "/E-dallal/static/js/2.c5104c31.chunk.js.map",
-    "static/js/3.a17d28f2.chunk.js": "/E-dallal/static/js/3.a17d28f2.chunk.js",
-    "static/js/3.a17d28f2.chunk.js.map": "/E-dallal/static/js/3.a17d28f2.chunk.js.map",
+    "static/js/2.7bbc3ec9.chunk.js": "/E-dallal/static/js/2.7bbc3ec9.chunk.js",
+    "static/js/2.7bbc3ec9.chunk.js.map": "/E-dallal/static/js/2.7bbc3ec9.chunk.js.map",
+    "static/js/3.4d45217c.chunk.js": "/E-dallal/static/js/3.4d45217c.chunk.js",
+    "static/js/3.4d45217c.chunk.js.map": "/E-dallal/static/js/3.4d45217c.chunk.js.map",
     "index.html": "/E-dallal/index.html",
     "static/css/2.2948a832.chunk.css.map": "/E-dallal/static/css/2.2948a832.chunk.css.map",
     "static/css/main.98b344da.chunk.css.map": "/E-dallal/static/css/main.98b344da.chunk.css.map",
-    "static/js/2.c5104c31.chunk.js.LICENSE.txt": "/E-dallal/static/js/2.c5104c31.chunk.js.LICENSE.txt",
+    "static/js/2.7bbc3ec9.chunk.js.LICENSE.txt": "/E-dallal/static/js/2.7bbc3ec9.chunk.js.LICENSE.txt",
     "static/media/Farm-Pick.68b6d635.png": "/E-dallal/static/media/Farm-Pick.68b6d635.png",
     "static/media/allevatorisammarinesi.d8e6705d.png": "/E-dallal/static/media/allevatorisammarinesi.d8e6705d.png",
     "static/media/home.style.css": "/E-dallal/static/media/slide.6a002994.png",
@@ -34,10 +34,10 @@
     "static/media/web.2f68c076.svg": "/E-dallal/static/media/web.2f68c076.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e90cceaa.js",
+    "static/js/runtime-main.74f48c1a.js",
     "static/css/2.2948a832.chunk.css",
-    "static/js/2.c5104c31.chunk.js",
+    "static/js/2.7bbc3ec9.chunk.js",
     "static/css/main.98b344da.chunk.css",
-    "static/js/main.3019569a.chunk.js"
+    "static/js/main.7df91438.chunk.js"
   ]
 }
