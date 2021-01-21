@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Edallal/static/css/main.8d5731aa.chunk.css",
-    "main.js": "/Edallal/static/js/main.13a68fc6.chunk.js",
-    "main.js.map": "/Edallal/static/js/main.13a68fc6.chunk.js.map",
+    "main.js": "/Edallal/static/js/main.97db6586.chunk.js",
+    "main.js.map": "/Edallal/static/js/main.97db6586.chunk.js.map",
     "runtime-main.js": "/Edallal/static/js/runtime-main.23e2bd42.js",
     "runtime-main.js.map": "/Edallal/static/js/runtime-main.23e2bd42.js.map",
     "static/css/2.f9144b94.chunk.css": "/Edallal/static/css/2.f9144b94.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.f9144b94.chunk.css",
     "static/js/2.4408b6e0.chunk.js",
     "static/css/main.8d5731aa.chunk.css",
-    "static/js/main.13a68fc6.chunk.js"
+    "static/js/main.97db6586.chunk.js"
   ]
 }
